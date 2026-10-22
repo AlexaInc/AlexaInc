@@ -1,34 +1,63 @@
 # Hi, I'm Hansaka Rasanjana 👋
 
-**BSc (Hons) IT — Artificial Intelligence @ SLIIT (Year 1) | Backend Developer (Node.js, TypeScript) | React Native**
+**BSc (Hons) IT (AI) @ SLIIT | Backend Developer (Node.js, TypeScript) | React Native**
 
-I build practical systems that go from idea to live deployment — automation bots, real-time backends, and AI-integrated IoT.
-
-### 🔭 Currently working on
-- **AI Crop Health Robot** — ESP32-S3 + Node.js/Express/Socket.IO + React Native (Expo) + TensorFlow (EfficientNetB0)
-  - [Client (React Native)](https://github.com/AlexaInc/chrclient) · [Server (Node.js)](https://github.com/AlexaInc/chrserver) · [Dataset (Hugging Face)](https://huggingface.co/hansaka01/crophelthh) · [Live Demo](https://crophealth.dpdns.org)
-
-### 🛠️ Stack
-`Node.js` `TypeScript` `Express` `Socket.IO` `Python` `React` `React Native` `Expo` `MongoDB` `PostgreSQL` `TensorFlow` `ESP32` `GCP` `Oracle Cloud` `Cloudflare Tunnels` `Linux` `Git` `Docker`
-
-### 📌 Featured Projects
-- **Alexa Bot Ecosystem** — WhatsApp/Telegram bots serving real users → [alexa-v3](https://github.com/AlexaInc/alexa-v3) · [alexatg](https://github.com/AlexaInc/alexatg)
-- **deepai SDK** (NPM) — PostgreSQL pooling, fallback models, memory injection → [deepai](https://github.com/AlexaInc/deepai)
-- **QuotlyNative** — C++ fix for Telegram quote rendering → [QuotlyNative](https://github.com/AlexaInc/QuotlyNative)
-- Open-source PR: **Telegram Web** GramJS session login → [Ajaxy/telegram-tt#546](https://github.com/Ajaxy/telegram-tt/pull/546)
-
-### 🏆 Certifications
-REST API (Intermediate), Frontend Developer (React), JavaScript (Intermediate), Problem Solving (Intermediate/Basic), Java (Basic), Node.js (Basic), CSS (Basic) — [HackerRank](https://www.hackerrank.com/profile/rasanjanahansak1)
-
-### 📫 Reach me
-- Portfolio: [alexainc.github.io](https://alexainc.github.io/#/about)
-- LinkedIn: [hansaka-rasanjana-b58760268](https://www.linkedin.com/in/hansaka-rasanjana-b58760268/)
-- Email: rasanjanahansaka1@gmail.com
-- Hugging Face: [hansaka01](https://huggingface.co/hansaka01)
-
-> **Available for part-time internships (15–20 hrs/week, remote)** — Backend, Full Stack, or React Native.
+BSc IT undergraduate (AI specialization) building practical systems — from automation bots to AI-integrated IoT.
 
 ---
+
+### Selected Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/AlexaInc/chrserver">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexaInc&repo=chrserver&theme=transparent&hide_border=true&title_color=1B2A4E&icon_color=2563EB&text_color=334155" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/AlexaInc/chrclient">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexaInc&repo=chrclient&theme=transparent&hide_border=true&title_color=1B2A4E&icon_color=2563EB&text_color=334155" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/AlexaInc/deepai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexaInc&repo=deepai&theme=transparent&hide_border=true&title_color=1B2A4E&icon_color=2563EB&text_color=334155" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/AlexaInc/alexa-v3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexaInc&repo=alexa-v3&theme=transparent&hide_border=true&title_color=1B2A4E&icon_color=2563EB&text_color=334155" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+**AI Crop Health Monitoring Robot** — SLIIT Y1S1 Mini Project (Completed & Evaluated, 2026)  
+ESP32-S3 + Node.js/Express/Socket.IO + React Native + TensorFlow · [Live Demo](https://crophealth.dpdns.org) · [Dataset](https://huggingface.co/hansaka01/crophelthh)
+
+---
+
+### Stack
+
+`Node.js` `TypeScript` `Express` `Socket.IO` `Python` `React` `React Native` `Expo` `MongoDB` `PostgreSQL` `TensorFlow` `ESP32` `GCP` `Cloudflare Tunnels`
+
+### Certifications
+
+REST API (Intermediate) · Frontend Developer (React) · JavaScript (Intermediate) · Problem Solving (Intermediate/Basic) · Java (Basic) · Node.js (Basic) · CSS (Basic) — [HackerRank](https://www.hackerrank.com/profile/rasanjanahansak1)
+
+### Contact
+
+[Portfolio](https://alexainc.github.io/#/about) · [LinkedIn](https://www.linkedin.com/in/hansaka-rasanjana-b58760268/) · [Hugging Face](https://huggingface.co/hansaka01) · rasanjanahansaka1@gmail.com
+
+---
+
+<p align="center">
+  <sub>Available for part-time internships (15–20 hrs/week, remote)</sub>
+</p>
+
 
 ### 📊 GitHub Stats
 
